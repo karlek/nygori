@@ -15,3 +15,7 @@ $ git clone https://github.com/karlek/nygori.git
 $ cd nygori/julia
 $ glslViewer julia.frag
 ```
+
+## Screenshots
+
+![Maelstrom](screenshots/maelstrom.png)
