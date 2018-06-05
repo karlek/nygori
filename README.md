@@ -18,4 +18,4 @@ $ glslViewer julia.frag
 
 ## Screenshots
 
-![Maelstrom](screenshots/maelstrom.png)
+![Maelstrom](screenshots/maelstrom.png "Maelstrom")
